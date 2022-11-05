@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css"
+import ReactAudiogram from "./React-Audiogram/ReactAudiogram"
+
+// const AUDIOGRAMDATA = {
+//   right: {
+//     air: [500, 1000, 1500],
+//     maskedAir: [],
+//     bone: [],
+//     maskedBone: [],
+//   },
+//   left: {
+//     air: [],
+//     maskedAir: [],
+//     bone: [],
+//     maskedBone: [],
+//   },
+// }
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='App'>
+      <div className='audiogram-container'>
+        <ReactAudiogram
+          showBanana={false}
+          showLetters={false}
+          showLabels={true}
+          showInterFQ={true}
+        />
+      </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

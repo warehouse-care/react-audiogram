@@ -1,0 +1,17 @@
+.inter-fq {
+  display: block;
+}
+
+.inter-fq.hidden {
+  display: none;
+}
+
+.mark-cursor {
+  fill: #ff000000;
+  transition: fill 0.2s;
+}
+
+.mark-cursor:hover {
+  fill: #00000020;
+  transition: fill 0.1s;
+}
