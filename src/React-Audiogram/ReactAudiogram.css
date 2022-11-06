@@ -15,3 +15,16 @@
   fill: #00000020;
   transition: fill 0.1s;
 }
+
+.air-marks{
+  animation: path-animation 0.2s linear 0s 1 both;
+}
+
+@keyframes path-animation {
+  0%{
+    stroke-dasharray: 0px 30px;
+  }
+  100%{
+    stroke-dasharray: 30px 0px;
+  }
+}

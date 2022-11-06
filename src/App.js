@@ -21,10 +21,16 @@ function App() {
     <div className='App'>
       <div className='audiogram-container'>
         <ReactAudiogram
-          showBanana={false}
-          showLetters={false}
-          showLabels={true}
-          showInterFQ={true}
+          options={
+            {
+              showBanana: false,
+              showLetters: false,
+              showLabels: true,
+              showInterFQ: true,
+              editable: true
+            }
+          }
+          onAudiogramChange
         />
       </div>
     </div>
