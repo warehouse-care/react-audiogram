@@ -23,10 +23,10 @@ function App() {
         <ReactAudiogram
           options={
             {
-              showBanana: false,
-              showLetters: false,
+              showBanana: true,
+              showLetters: true,
               showLabels: true,
-              showInterFQ: true,
+              showInterFQ: false,
               editable: true
             }
           }

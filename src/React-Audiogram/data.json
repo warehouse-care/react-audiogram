@@ -1,0 +1,3701 @@
+[
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": -10,
+      "position": {
+        "x": 30,
+        "y": 30
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": -10,
+      "position": {
+        "x": 80,
+        "y": 30
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": -10,
+      "position": {
+        "x": 130,
+        "y": 30
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": -10,
+      "position": {
+        "x": 180,
+        "y": 30
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": -10,
+      "position": {
+        "x": 230,
+        "y": 30
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": -10,
+      "position": {
+        "x": 280,
+        "y": 30
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": -10,
+      "position": {
+        "x": 330,
+        "y": 30
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": -10,
+      "position": {
+        "x": 380,
+        "y": 30
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": -10,
+      "position": {
+        "x": 430,
+        "y": 30
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": -10,
+      "position": {
+        "x": 480,
+        "y": 30
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": -10,
+      "position": {
+        "x": 530,
+        "y": 30
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": -10,
+      "position": {
+        "x": 580,
+        "y": 30
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": -10,
+      "position": {
+        "x": 630,
+        "y": 30
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": -10,
+      "position": {
+        "x": 680,
+        "y": 30
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": -10,
+      "position": {
+        "x": 730,
+        "y": 30
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": -5,
+      "position": {
+        "x": 30,
+        "y": 53
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": -5,
+      "position": {
+        "x": 80,
+        "y": 53
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": -5,
+      "position": {
+        "x": 130,
+        "y": 53
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": -5,
+      "position": {
+        "x": 180,
+        "y": 53
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": -5,
+      "position": {
+        "x": 230,
+        "y": 53
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": -5,
+      "position": {
+        "x": 280,
+        "y": 53
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": -5,
+      "position": {
+        "x": 330,
+        "y": 53
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": -5,
+      "position": {
+        "x": 380,
+        "y": 53
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": -5,
+      "position": {
+        "x": 430,
+        "y": 53
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": -5,
+      "position": {
+        "x": 480,
+        "y": 53
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": -5,
+      "position": {
+        "x": 530,
+        "y": 53
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": -5,
+      "position": {
+        "x": 580,
+        "y": 53
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": -5,
+      "position": {
+        "x": 630,
+        "y": 53
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": -5,
+      "position": {
+        "x": 680,
+        "y": 53
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": -5,
+      "position": {
+        "x": 730,
+        "y": 53
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 0,
+      "position": {
+        "x": 30,
+        "y": 76
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 0,
+      "position": {
+        "x": 80,
+        "y": 76
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 0,
+      "position": {
+        "x": 130,
+        "y": 76
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 0,
+      "position": {
+        "x": 180,
+        "y": 76
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 0,
+      "position": {
+        "x": 230,
+        "y": 76
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 0,
+      "position": {
+        "x": 280,
+        "y": 76
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 0,
+      "position": {
+        "x": 330,
+        "y": 76
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 0,
+      "position": {
+        "x": 380,
+        "y": 76
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 0,
+      "position": {
+        "x": 430,
+        "y": 76
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 0,
+      "position": {
+        "x": 480,
+        "y": 76
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 0,
+      "position": {
+        "x": 530,
+        "y": 76
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 0,
+      "position": {
+        "x": 580,
+        "y": 76
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 0,
+      "position": {
+        "x": 630,
+        "y": 76
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 0,
+      "position": {
+        "x": 680,
+        "y": 76
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 0,
+      "position": {
+        "x": 730,
+        "y": 76
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 5,
+      "position": {
+        "x": 30,
+        "y": 99
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 5,
+      "position": {
+        "x": 80,
+        "y": 99
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 5,
+      "position": {
+        "x": 130,
+        "y": 99
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 5,
+      "position": {
+        "x": 180,
+        "y": 99
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 5,
+      "position": {
+        "x": 230,
+        "y": 99
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 5,
+      "position": {
+        "x": 280,
+        "y": 99
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 5,
+      "position": {
+        "x": 330,
+        "y": 99
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 5,
+      "position": {
+        "x": 380,
+        "y": 99
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 5,
+      "position": {
+        "x": 430,
+        "y": 99
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 5,
+      "position": {
+        "x": 480,
+        "y": 99
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 5,
+      "position": {
+        "x": 530,
+        "y": 99
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 5,
+      "position": {
+        "x": 580,
+        "y": 99
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 5,
+      "position": {
+        "x": 630,
+        "y": 99
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 5,
+      "position": {
+        "x": 680,
+        "y": 99
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 5,
+      "position": {
+        "x": 730,
+        "y": 99
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 10,
+      "position": {
+        "x": 30,
+        "y": 122
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 10,
+      "position": {
+        "x": 80,
+        "y": 122
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 10,
+      "position": {
+        "x": 130,
+        "y": 122
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 10,
+      "position": {
+        "x": 180,
+        "y": 122
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 10,
+      "position": {
+        "x": 230,
+        "y": 122
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 10,
+      "position": {
+        "x": 280,
+        "y": 122
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 10,
+      "position": {
+        "x": 330,
+        "y": 122
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 10,
+      "position": {
+        "x": 380,
+        "y": 122
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 10,
+      "position": {
+        "x": 430,
+        "y": 122
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 10,
+      "position": {
+        "x": 480,
+        "y": 122
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 10,
+      "position": {
+        "x": 530,
+        "y": 122
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 10,
+      "position": {
+        "x": 580,
+        "y": 122
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 10,
+      "position": {
+        "x": 630,
+        "y": 122
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 10,
+      "position": {
+        "x": 680,
+        "y": 122
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 10,
+      "position": {
+        "x": 730,
+        "y": 122
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 15,
+      "position": {
+        "x": 30,
+        "y": 145
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 15,
+      "position": {
+        "x": 80,
+        "y": 145
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 15,
+      "position": {
+        "x": 130,
+        "y": 145
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 15,
+      "position": {
+        "x": 180,
+        "y": 145
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 15,
+      "position": {
+        "x": 230,
+        "y": 145
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 15,
+      "position": {
+        "x": 280,
+        "y": 145
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 15,
+      "position": {
+        "x": 330,
+        "y": 145
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 15,
+      "position": {
+        "x": 380,
+        "y": 145
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 15,
+      "position": {
+        "x": 430,
+        "y": 145
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 15,
+      "position": {
+        "x": 480,
+        "y": 145
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 15,
+      "position": {
+        "x": 530,
+        "y": 145
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 15,
+      "position": {
+        "x": 580,
+        "y": 145
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 15,
+      "position": {
+        "x": 630,
+        "y": 145
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 15,
+      "position": {
+        "x": 680,
+        "y": 145
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 15,
+      "position": {
+        "x": 730,
+        "y": 145
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 20,
+      "position": {
+        "x": 30,
+        "y": 168
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 20,
+      "position": {
+        "x": 80,
+        "y": 168
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 20,
+      "position": {
+        "x": 130,
+        "y": 168
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 20,
+      "position": {
+        "x": 180,
+        "y": 168
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 20,
+      "position": {
+        "x": 230,
+        "y": 168
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 20,
+      "position": {
+        "x": 280,
+        "y": 168
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 20,
+      "position": {
+        "x": 330,
+        "y": 168
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 20,
+      "position": {
+        "x": 380,
+        "y": 168
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 20,
+      "position": {
+        "x": 430,
+        "y": 168
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 20,
+      "position": {
+        "x": 480,
+        "y": 168
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 20,
+      "position": {
+        "x": 530,
+        "y": 168
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 20,
+      "position": {
+        "x": 580,
+        "y": 168
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 20,
+      "position": {
+        "x": 630,
+        "y": 168
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 20,
+      "position": {
+        "x": 680,
+        "y": 168
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 20,
+      "position": {
+        "x": 730,
+        "y": 168
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 25,
+      "position": {
+        "x": 30,
+        "y": 191
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 25,
+      "position": {
+        "x": 80,
+        "y": 191
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 25,
+      "position": {
+        "x": 130,
+        "y": 191
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 25,
+      "position": {
+        "x": 180,
+        "y": 191
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 25,
+      "position": {
+        "x": 230,
+        "y": 191
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 25,
+      "position": {
+        "x": 280,
+        "y": 191
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 25,
+      "position": {
+        "x": 330,
+        "y": 191
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 25,
+      "position": {
+        "x": 380,
+        "y": 191
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 25,
+      "position": {
+        "x": 430,
+        "y": 191
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 25,
+      "position": {
+        "x": 480,
+        "y": 191
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 25,
+      "position": {
+        "x": 530,
+        "y": 191
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 25,
+      "position": {
+        "x": 580,
+        "y": 191
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 25,
+      "position": {
+        "x": 630,
+        "y": 191
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 25,
+      "position": {
+        "x": 680,
+        "y": 191
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 25,
+      "position": {
+        "x": 730,
+        "y": 191
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 30,
+      "position": {
+        "x": 30,
+        "y": 214
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 30,
+      "position": {
+        "x": 80,
+        "y": 214
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 30,
+      "position": {
+        "x": 130,
+        "y": 214
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 30,
+      "position": {
+        "x": 180,
+        "y": 214
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 30,
+      "position": {
+        "x": 230,
+        "y": 214
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 30,
+      "position": {
+        "x": 280,
+        "y": 214
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 30,
+      "position": {
+        "x": 330,
+        "y": 214
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 30,
+      "position": {
+        "x": 380,
+        "y": 214
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 30,
+      "position": {
+        "x": 430,
+        "y": 214
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 30,
+      "position": {
+        "x": 480,
+        "y": 214
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 30,
+      "position": {
+        "x": 530,
+        "y": 214
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 30,
+      "position": {
+        "x": 580,
+        "y": 214
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 30,
+      "position": {
+        "x": 630,
+        "y": 214
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 30,
+      "position": {
+        "x": 680,
+        "y": 214
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 30,
+      "position": {
+        "x": 730,
+        "y": 214
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 35,
+      "position": {
+        "x": 30,
+        "y": 237
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 35,
+      "position": {
+        "x": 80,
+        "y": 237
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 35,
+      "position": {
+        "x": 130,
+        "y": 237
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 35,
+      "position": {
+        "x": 180,
+        "y": 237
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 35,
+      "position": {
+        "x": 230,
+        "y": 237
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 35,
+      "position": {
+        "x": 280,
+        "y": 237
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 35,
+      "position": {
+        "x": 330,
+        "y": 237
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 35,
+      "position": {
+        "x": 380,
+        "y": 237
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 35,
+      "position": {
+        "x": 430,
+        "y": 237
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 35,
+      "position": {
+        "x": 480,
+        "y": 237
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 35,
+      "position": {
+        "x": 530,
+        "y": 237
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 35,
+      "position": {
+        "x": 580,
+        "y": 237
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 35,
+      "position": {
+        "x": 630,
+        "y": 237
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 35,
+      "position": {
+        "x": 680,
+        "y": 237
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 35,
+      "position": {
+        "x": 730,
+        "y": 237
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 40,
+      "position": {
+        "x": 30,
+        "y": 260
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 40,
+      "position": {
+        "x": 80,
+        "y": 260
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 40,
+      "position": {
+        "x": 130,
+        "y": 260
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 40,
+      "position": {
+        "x": 180,
+        "y": 260
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 40,
+      "position": {
+        "x": 230,
+        "y": 260
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 40,
+      "position": {
+        "x": 280,
+        "y": 260
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 40,
+      "position": {
+        "x": 330,
+        "y": 260
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 40,
+      "position": {
+        "x": 380,
+        "y": 260
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 40,
+      "position": {
+        "x": 430,
+        "y": 260
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 40,
+      "position": {
+        "x": 480,
+        "y": 260
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 40,
+      "position": {
+        "x": 530,
+        "y": 260
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 40,
+      "position": {
+        "x": 580,
+        "y": 260
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 40,
+      "position": {
+        "x": 630,
+        "y": 260
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 40,
+      "position": {
+        "x": 680,
+        "y": 260
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 40,
+      "position": {
+        "x": 730,
+        "y": 260
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 45,
+      "position": {
+        "x": 30,
+        "y": 283
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 45,
+      "position": {
+        "x": 80,
+        "y": 283
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 45,
+      "position": {
+        "x": 130,
+        "y": 283
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 45,
+      "position": {
+        "x": 180,
+        "y": 283
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 45,
+      "position": {
+        "x": 230,
+        "y": 283
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 45,
+      "position": {
+        "x": 280,
+        "y": 283
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 45,
+      "position": {
+        "x": 330,
+        "y": 283
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 45,
+      "position": {
+        "x": 380,
+        "y": 283
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 45,
+      "position": {
+        "x": 430,
+        "y": 283
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 45,
+      "position": {
+        "x": 480,
+        "y": 283
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 45,
+      "position": {
+        "x": 530,
+        "y": 283
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 45,
+      "position": {
+        "x": 580,
+        "y": 283
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 45,
+      "position": {
+        "x": 630,
+        "y": 283
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 45,
+      "position": {
+        "x": 680,
+        "y": 283
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 45,
+      "position": {
+        "x": 730,
+        "y": 283
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 50,
+      "position": {
+        "x": 30,
+        "y": 306
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 50,
+      "position": {
+        "x": 80,
+        "y": 306
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 50,
+      "position": {
+        "x": 130,
+        "y": 306
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 50,
+      "position": {
+        "x": 180,
+        "y": 306
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 50,
+      "position": {
+        "x": 230,
+        "y": 306
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 50,
+      "position": {
+        "x": 280,
+        "y": 306
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 50,
+      "position": {
+        "x": 330,
+        "y": 306
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 50,
+      "position": {
+        "x": 380,
+        "y": 306
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 50,
+      "position": {
+        "x": 430,
+        "y": 306
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 50,
+      "position": {
+        "x": 480,
+        "y": 306
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 50,
+      "position": {
+        "x": 530,
+        "y": 306
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 50,
+      "position": {
+        "x": 580,
+        "y": 306
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 50,
+      "position": {
+        "x": 630,
+        "y": 306
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 50,
+      "position": {
+        "x": 680,
+        "y": 306
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 50,
+      "position": {
+        "x": 730,
+        "y": 306
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 55,
+      "position": {
+        "x": 30,
+        "y": 329
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 55,
+      "position": {
+        "x": 80,
+        "y": 329
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 55,
+      "position": {
+        "x": 130,
+        "y": 329
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 55,
+      "position": {
+        "x": 180,
+        "y": 329
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 55,
+      "position": {
+        "x": 230,
+        "y": 329
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 55,
+      "position": {
+        "x": 280,
+        "y": 329
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 55,
+      "position": {
+        "x": 330,
+        "y": 329
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 55,
+      "position": {
+        "x": 380,
+        "y": 329
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 55,
+      "position": {
+        "x": 430,
+        "y": 329
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 55,
+      "position": {
+        "x": 480,
+        "y": 329
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 55,
+      "position": {
+        "x": 530,
+        "y": 329
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 55,
+      "position": {
+        "x": 580,
+        "y": 329
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 55,
+      "position": {
+        "x": 630,
+        "y": 329
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 55,
+      "position": {
+        "x": 680,
+        "y": 329
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 55,
+      "position": {
+        "x": 730,
+        "y": 329
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 60,
+      "position": {
+        "x": 30,
+        "y": 352
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 60,
+      "position": {
+        "x": 80,
+        "y": 352
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 60,
+      "position": {
+        "x": 130,
+        "y": 352
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 60,
+      "position": {
+        "x": 180,
+        "y": 352
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 60,
+      "position": {
+        "x": 230,
+        "y": 352
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 60,
+      "position": {
+        "x": 280,
+        "y": 352
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 60,
+      "position": {
+        "x": 330,
+        "y": 352
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 60,
+      "position": {
+        "x": 380,
+        "y": 352
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 60,
+      "position": {
+        "x": 430,
+        "y": 352
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 60,
+      "position": {
+        "x": 480,
+        "y": 352
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 60,
+      "position": {
+        "x": 530,
+        "y": 352
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 60,
+      "position": {
+        "x": 580,
+        "y": 352
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 60,
+      "position": {
+        "x": 630,
+        "y": 352
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 60,
+      "position": {
+        "x": 680,
+        "y": 352
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 60,
+      "position": {
+        "x": 730,
+        "y": 352
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 65,
+      "position": {
+        "x": 30,
+        "y": 375
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 65,
+      "position": {
+        "x": 80,
+        "y": 375
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 65,
+      "position": {
+        "x": 130,
+        "y": 375
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 65,
+      "position": {
+        "x": 180,
+        "y": 375
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 65,
+      "position": {
+        "x": 230,
+        "y": 375
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 65,
+      "position": {
+        "x": 280,
+        "y": 375
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 65,
+      "position": {
+        "x": 330,
+        "y": 375
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 65,
+      "position": {
+        "x": 380,
+        "y": 375
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 65,
+      "position": {
+        "x": 430,
+        "y": 375
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 65,
+      "position": {
+        "x": 480,
+        "y": 375
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 65,
+      "position": {
+        "x": 530,
+        "y": 375
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 65,
+      "position": {
+        "x": 580,
+        "y": 375
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 65,
+      "position": {
+        "x": 630,
+        "y": 375
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 65,
+      "position": {
+        "x": 680,
+        "y": 375
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 65,
+      "position": {
+        "x": 730,
+        "y": 375
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 70,
+      "position": {
+        "x": 30,
+        "y": 398
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 70,
+      "position": {
+        "x": 80,
+        "y": 398
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 70,
+      "position": {
+        "x": 130,
+        "y": 398
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 70,
+      "position": {
+        "x": 180,
+        "y": 398
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 70,
+      "position": {
+        "x": 230,
+        "y": 398
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 70,
+      "position": {
+        "x": 280,
+        "y": 398
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 70,
+      "position": {
+        "x": 330,
+        "y": 398
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 70,
+      "position": {
+        "x": 380,
+        "y": 398
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 70,
+      "position": {
+        "x": 430,
+        "y": 398
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 70,
+      "position": {
+        "x": 480,
+        "y": 398
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 70,
+      "position": {
+        "x": 530,
+        "y": 398
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 70,
+      "position": {
+        "x": 580,
+        "y": 398
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 70,
+      "position": {
+        "x": 630,
+        "y": 398
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 70,
+      "position": {
+        "x": 680,
+        "y": 398
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 70,
+      "position": {
+        "x": 730,
+        "y": 398
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 75,
+      "position": {
+        "x": 30,
+        "y": 421
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 75,
+      "position": {
+        "x": 80,
+        "y": 421
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 75,
+      "position": {
+        "x": 130,
+        "y": 421
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 75,
+      "position": {
+        "x": 180,
+        "y": 421
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 75,
+      "position": {
+        "x": 230,
+        "y": 421
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 75,
+      "position": {
+        "x": 280,
+        "y": 421
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 75,
+      "position": {
+        "x": 330,
+        "y": 421
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 75,
+      "position": {
+        "x": 380,
+        "y": 421
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 75,
+      "position": {
+        "x": 430,
+        "y": 421
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 75,
+      "position": {
+        "x": 480,
+        "y": 421
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 75,
+      "position": {
+        "x": 530,
+        "y": 421
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 75,
+      "position": {
+        "x": 580,
+        "y": 421
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 75,
+      "position": {
+        "x": 630,
+        "y": 421
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 75,
+      "position": {
+        "x": 680,
+        "y": 421
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 75,
+      "position": {
+        "x": 730,
+        "y": 421
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 80,
+      "position": {
+        "x": 30,
+        "y": 444
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 80,
+      "position": {
+        "x": 80,
+        "y": 444
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 80,
+      "position": {
+        "x": 130,
+        "y": 444
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 80,
+      "position": {
+        "x": 180,
+        "y": 444
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 80,
+      "position": {
+        "x": 230,
+        "y": 444
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 80,
+      "position": {
+        "x": 280,
+        "y": 444
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 80,
+      "position": {
+        "x": 330,
+        "y": 444
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 80,
+      "position": {
+        "x": 380,
+        "y": 444
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 80,
+      "position": {
+        "x": 430,
+        "y": 444
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 80,
+      "position": {
+        "x": 480,
+        "y": 444
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 80,
+      "position": {
+        "x": 530,
+        "y": 444
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 80,
+      "position": {
+        "x": 580,
+        "y": 444
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 80,
+      "position": {
+        "x": 630,
+        "y": 444
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 80,
+      "position": {
+        "x": 680,
+        "y": 444
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 80,
+      "position": {
+        "x": 730,
+        "y": 444
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 85,
+      "position": {
+        "x": 30,
+        "y": 467
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 85,
+      "position": {
+        "x": 80,
+        "y": 467
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 85,
+      "position": {
+        "x": 130,
+        "y": 467
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 85,
+      "position": {
+        "x": 180,
+        "y": 467
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 85,
+      "position": {
+        "x": 230,
+        "y": 467
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 85,
+      "position": {
+        "x": 280,
+        "y": 467
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 85,
+      "position": {
+        "x": 330,
+        "y": 467
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 85,
+      "position": {
+        "x": 380,
+        "y": 467
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 85,
+      "position": {
+        "x": 430,
+        "y": 467
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 85,
+      "position": {
+        "x": 480,
+        "y": 467
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 85,
+      "position": {
+        "x": 530,
+        "y": 467
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 85,
+      "position": {
+        "x": 580,
+        "y": 467
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 85,
+      "position": {
+        "x": 630,
+        "y": 467
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 85,
+      "position": {
+        "x": 680,
+        "y": 467
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 85,
+      "position": {
+        "x": 730,
+        "y": 467
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 90,
+      "position": {
+        "x": 30,
+        "y": 490
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 90,
+      "position": {
+        "x": 80,
+        "y": 490
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 90,
+      "position": {
+        "x": 130,
+        "y": 490
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 90,
+      "position": {
+        "x": 180,
+        "y": 490
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 90,
+      "position": {
+        "x": 230,
+        "y": 490
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 90,
+      "position": {
+        "x": 280,
+        "y": 490
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 90,
+      "position": {
+        "x": 330,
+        "y": 490
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 90,
+      "position": {
+        "x": 380,
+        "y": 490
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 90,
+      "position": {
+        "x": 430,
+        "y": 490
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 90,
+      "position": {
+        "x": 480,
+        "y": 490
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 90,
+      "position": {
+        "x": 530,
+        "y": 490
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 90,
+      "position": {
+        "x": 580,
+        "y": 490
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 90,
+      "position": {
+        "x": 630,
+        "y": 490
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 90,
+      "position": {
+        "x": 680,
+        "y": 490
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 90,
+      "position": {
+        "x": 730,
+        "y": 490
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 95,
+      "position": {
+        "x": 30,
+        "y": 513
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 95,
+      "position": {
+        "x": 80,
+        "y": 513
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 95,
+      "position": {
+        "x": 130,
+        "y": 513
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 95,
+      "position": {
+        "x": 180,
+        "y": 513
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 95,
+      "position": {
+        "x": 230,
+        "y": 513
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 95,
+      "position": {
+        "x": 280,
+        "y": 513
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 95,
+      "position": {
+        "x": 330,
+        "y": 513
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 95,
+      "position": {
+        "x": 380,
+        "y": 513
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 95,
+      "position": {
+        "x": 430,
+        "y": 513
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 95,
+      "position": {
+        "x": 480,
+        "y": 513
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 95,
+      "position": {
+        "x": 530,
+        "y": 513
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 95,
+      "position": {
+        "x": 580,
+        "y": 513
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 95,
+      "position": {
+        "x": 630,
+        "y": 513
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 95,
+      "position": {
+        "x": 680,
+        "y": 513
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 95,
+      "position": {
+        "x": 730,
+        "y": 513
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 100,
+      "position": {
+        "x": 30,
+        "y": 536
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 100,
+      "position": {
+        "x": 80,
+        "y": 536
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 100,
+      "position": {
+        "x": 130,
+        "y": 536
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 100,
+      "position": {
+        "x": 180,
+        "y": 536
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 100,
+      "position": {
+        "x": 230,
+        "y": 536
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 100,
+      "position": {
+        "x": 280,
+        "y": 536
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 100,
+      "position": {
+        "x": 330,
+        "y": 536
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 100,
+      "position": {
+        "x": 380,
+        "y": 536
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 100,
+      "position": {
+        "x": 430,
+        "y": 536
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 100,
+      "position": {
+        "x": 480,
+        "y": 536
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 100,
+      "position": {
+        "x": 530,
+        "y": 536
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 100,
+      "position": {
+        "x": 580,
+        "y": 536
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 100,
+      "position": {
+        "x": 630,
+        "y": 536
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 100,
+      "position": {
+        "x": 680,
+        "y": 536
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 100,
+      "position": {
+        "x": 730,
+        "y": 536
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 105,
+      "position": {
+        "x": 30,
+        "y": 559
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 105,
+      "position": {
+        "x": 80,
+        "y": 559
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 105,
+      "position": {
+        "x": 130,
+        "y": 559
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 105,
+      "position": {
+        "x": 180,
+        "y": 559
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 105,
+      "position": {
+        "x": 230,
+        "y": 559
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 105,
+      "position": {
+        "x": 280,
+        "y": 559
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 105,
+      "position": {
+        "x": 330,
+        "y": 559
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 105,
+      "position": {
+        "x": 380,
+        "y": 559
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 105,
+      "position": {
+        "x": 430,
+        "y": 559
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 105,
+      "position": {
+        "x": 480,
+        "y": 559
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 105,
+      "position": {
+        "x": 530,
+        "y": 559
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 105,
+      "position": {
+        "x": 580,
+        "y": 559
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 105,
+      "position": {
+        "x": 630,
+        "y": 559
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 105,
+      "position": {
+        "x": 680,
+        "y": 559
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 105,
+      "position": {
+        "x": 730,
+        "y": 559
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 110,
+      "position": {
+        "x": 30,
+        "y": 582
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 110,
+      "position": {
+        "x": 80,
+        "y": 582
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 110,
+      "position": {
+        "x": 130,
+        "y": 582
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 110,
+      "position": {
+        "x": 180,
+        "y": 582
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 110,
+      "position": {
+        "x": 230,
+        "y": 582
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 110,
+      "position": {
+        "x": 280,
+        "y": 582
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 110,
+      "position": {
+        "x": 330,
+        "y": 582
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 110,
+      "position": {
+        "x": 380,
+        "y": 582
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 110,
+      "position": {
+        "x": 430,
+        "y": 582
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 110,
+      "position": {
+        "x": 480,
+        "y": 582
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 110,
+      "position": {
+        "x": 530,
+        "y": 582
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 110,
+      "position": {
+        "x": 580,
+        "y": 582
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 110,
+      "position": {
+        "x": 630,
+        "y": 582
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 110,
+      "position": {
+        "x": 680,
+        "y": 582
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 110,
+      "position": {
+        "x": 730,
+        "y": 582
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 115,
+      "position": {
+        "x": 30,
+        "y": 605
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 115,
+      "position": {
+        "x": 80,
+        "y": 605
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 115,
+      "position": {
+        "x": 130,
+        "y": 605
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 115,
+      "position": {
+        "x": 180,
+        "y": 605
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 115,
+      "position": {
+        "x": 230,
+        "y": 605
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 115,
+      "position": {
+        "x": 280,
+        "y": 605
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 115,
+      "position": {
+        "x": 330,
+        "y": 605
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 115,
+      "position": {
+        "x": 380,
+        "y": 605
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 115,
+      "position": {
+        "x": 430,
+        "y": 605
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 115,
+      "position": {
+        "x": 480,
+        "y": 605
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 115,
+      "position": {
+        "x": 530,
+        "y": 605
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 115,
+      "position": {
+        "x": 580,
+        "y": 605
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 115,
+      "position": {
+        "x": 630,
+        "y": 605
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 115,
+      "position": {
+        "x": 680,
+        "y": 605
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 115,
+      "position": {
+        "x": 730,
+        "y": 605
+      }
+    }
+  ],
+  [
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 120,
+      "position": {
+        "x": 30,
+        "y": 628
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 120,
+      "position": {
+        "x": 80,
+        "y": 628
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 250,
+      "decibel": 120,
+      "position": {
+        "x": 130,
+        "y": 628
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 120,
+      "position": {
+        "x": 180,
+        "y": 628
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 500,
+      "decibel": 120,
+      "position": {
+        "x": 230,
+        "y": 628
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 750,
+      "decibel": 120,
+      "position": {
+        "x": 280,
+        "y": 628
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1000,
+      "decibel": 120,
+      "position": {
+        "x": 330,
+        "y": 628
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 1500,
+      "decibel": 120,
+      "position": {
+        "x": 380,
+        "y": 628
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 2000,
+      "decibel": 120,
+      "position": {
+        "x": 430,
+        "y": 628
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 3000,
+      "decibel": 120,
+      "position": {
+        "x": 480,
+        "y": 628
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 4000,
+      "decibel": 120,
+      "position": {
+        "x": 530,
+        "y": 628
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 6000,
+      "decibel": 120,
+      "position": {
+        "x": 580,
+        "y": 628
+      }
+    },
+    {
+      "valid": true,
+      "frequency": 8000,
+      "decibel": 120,
+      "position": {
+        "x": 630,
+        "y": 628
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 120,
+      "position": {
+        "x": 680,
+        "y": 628
+      }
+    },
+    {
+      "valid": false,
+      "frequency": null,
+      "decibel": 120,
+      "position": {
+        "x": 730,
+        "y": 628
+      }
+    }
+  ]
+]
